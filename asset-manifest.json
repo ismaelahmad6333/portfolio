@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.1b305eff.js",
-    "static/js/787.202b8111.chunk.js": "/portfolio/static/js/787.202b8111.chunk.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio/static/css/main.b2e692a0.css",
+    "main.js": "/portfolio/static/js/main.e07f2298.js",
+    "static/media/ahmad.svg": "/portfolio/static/media/ahmad.94398e85a2a45c95e8038f5699701ea9.svg",
+    "static/media/sasss 1.svg": "/portfolio/static/media/sasss 1.74cb54faec13054929065ab16a3d5418.svg",
+    "static/media/html 1.svg": "/portfolio/static/media/html 1.3a50802138969c571eea14e437ea2194.svg",
+    "static/media/mui5 1.svg": "/portfolio/static/media/mui5 1.da273920a633868d4952d88d78ae8bf0.svg",
+    "static/media/css 1.svg": "/portfolio/static/media/css 1.d84f8cfab98ebc0a3d8b3a6510f79d08.svg",
+    "static/media/react.svg": "/portfolio/static/media/react.bf81c7a576bf2b8334ae385c628dd083.svg",
+    "static/media/redux.svg": "/portfolio/static/media/redux.7dff602e27dae53921175dcc2328c123.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.5b4887a76addd128a4defa6d64eb281d.svg",
+    "static/media/Circle.svg": "/portfolio/static/media/Circle.3e84b0dce18f4600b8e1fceaff50f4bf.svg",
+    "static/media/styled 1.svg": "/portfolio/static/media/styled 1.1983699b6ada67eaf8566129bfb870dd.svg",
+    "static/media/bootstrap 1.svg": "/portfolio/static/media/bootstrap 1.aa330003afbc177995aabf49f8d5bf65.svg",
     "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.1b305eff.js.map": "/portfolio/static/js/main.1b305eff.js.map",
-    "787.202b8111.chunk.js.map": "/portfolio/static/js/787.202b8111.chunk.js.map"
+    "static/media/js.svg": "/portfolio/static/media/js.ca5c46d55337461ce0a13221ae2dd97e.svg",
+    "main.b2e692a0.css.map": "/portfolio/static/css/main.b2e692a0.css.map",
+    "main.e07f2298.js.map": "/portfolio/static/js/main.e07f2298.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1b305eff.js"
+    "static/css/main.b2e692a0.css",
+    "static/js/main.e07f2298.js"
   ]
 }
